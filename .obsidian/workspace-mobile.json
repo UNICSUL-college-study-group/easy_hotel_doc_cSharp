@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Patterns/Git/1 - Commit message patterns.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Patterns/Git/1 - Commit message patterns.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "Patterns/Git/1 - Commit message patterns.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "Patterns/Git/1 - Commit message patterns.md"
           }
         }
       }
@@ -133,6 +133,12 @@
   },
   "active": "acd412147ab75013",
   "lastOpenFiles": [
-    "README.md"
+    "Screenshot_20240918_212726_Brave.jpg",
+    "Screenshot_20240918_212137_Termux.jpg",
+    "Screenshot_20240918_233229_Termux.jpg",
+    "README.md",
+    "Patterns/Git/1 - Commit message patterns.md",
+    "Patterns/Git",
+    "Patterns"
   ]
 }
