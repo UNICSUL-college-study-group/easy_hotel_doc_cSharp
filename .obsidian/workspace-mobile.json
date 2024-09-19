@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDLC - Software development life cycle/0 - Overview.md",
+                "file": "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "SDLC - Software development life cycle/0 - Overview.md",
+            "file": "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "SDLC - Software development life cycle/0 - Overview.md",
+            "file": "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "SDLC - Software development life cycle/0 - Overview.md"
+            "file": "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed).md"
           }
         }
       }
@@ -133,9 +133,10 @@
   },
   "active": "acd412147ab75013",
   "lastOpenFiles": [
+    "SDLC - Software development life cycle/0 - Overview.md",
+    "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed).md",
     "Patterns/Git/1 - Commit message patterns.md",
     "README.md",
-    "SDLC - Software development life cycle/0 - Overview.md",
     "SDLC - Software development life cycle",
     "Screenshot_20240918_212726_Brave.jpg",
     "Screenshot_20240918_212137_Termux.jpg",
