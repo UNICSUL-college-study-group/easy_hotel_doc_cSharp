@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/1 - Requirements Gathering (Detailed).md",
+                "file": "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/User stories_Tasks/1 - User Registration and Authentication 1/1.5. As an Admin, I want to manage user accounts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/1 - Requirements Gathering (Detailed).md",
+                "file": "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/User stories_Tasks/1 - User Registration and Authentication 1/1.5. As an Admin, I want to manage user accounts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/1 - Requirements Gathering (Detailed).md",
+                "file": "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/User stories_Tasks/1 - User Registration and Authentication 1/1.5. As an Admin, I want to manage user accounts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/1 - Requirements Gathering (Detailed).md"
+                "file": "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/User stories_Tasks/1 - User Registration and Authentication 1/1.5. As an Admin, I want to manage user accounts.md"
               }
             }
           }
@@ -146,8 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3733fee271b4c67b",
+  "active": "7f1abd1e72071847",
   "lastOpenFiles": [
+    "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/User stories_Tasks/1 - User Registration and Authentication 1/1.4. As a User, I want to edit my account information.md",
+    "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/User stories_Tasks/1 - User Registration and Authentication 1/1.3. As a User, I want to reset my password if I have forgotten it.md",
+    "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/User stories_Tasks/1 - User Registration and Authentication 1/1.2. As a User, I want to log in to access my account.md",
+    "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/User stories_Tasks/1 - User Registration and Authentication 1/1.1. As a User, I want to create an account to access the platform.md",
+    "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/User stories_Tasks/1 - User Registration and Authentication 1/1.5. As an Admin, I want to manage user accounts.md",
+    "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/User stories_Tasks/1 - User Registration and Authentication 1",
+    "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/User stories_Tasks/1 - User Registration and Authentication",
+    "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/1 - Requirements Gathering (Detailed).md",
+    "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/User stories_Tasks",
     "SDLC - Software development life cycle/5 - Prototyping (Detailed)/5 - Prototyping (Detailed).md",
     "SDLC - Software development life cycle/5 - Prototyping (Detailed)",
     "SDLC - Software development life cycle/4 - Architecture Design (Detailed)/4 - Architecture Design (Detailed).md",
@@ -156,7 +165,6 @@
     "SDLC - Software development life cycle/2 - Agile methodology (Detailed)",
     "SDLC - Software development life cycle/0 - Overview/0 - Overview.md",
     "SDLC - Software development life cycle/0 - Overview",
-    "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/1 - Requirements Gathering (Detailed).md",
     "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)",
     "Patterns/Git/1 - Commit message patterns.md"
   ]
