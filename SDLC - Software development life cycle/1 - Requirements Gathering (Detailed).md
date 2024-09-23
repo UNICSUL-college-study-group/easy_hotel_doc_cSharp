@@ -1,5 +1,5 @@
 ___
-#### **1.1 Functional Requirements**
+#### **Functional Requirements**
 
 These describe what the system should do, focusing on the features and functionalities that will be implemented. Here's a breakdown for a hotel reservation platform:
 
@@ -70,7 +70,7 @@ These describe what the system should do, focusing on the features and functiona
     
     - Option to cancel or modify upcoming reservations based on hotel policies.
 
-#### **1.2 Non-Functional Requirements**
+#### **Non-Functional Requirements**
 
 These requirements focus on the system's behavior and characteristics, which are essential for delivering a high-quality user experience and a secure, scalable application.
 
@@ -114,7 +114,7 @@ These requirements focus on the system's behavior and characteristics, which are
 
     - Ensure compliance with local and international regulations regarding data security, payments, and privacy, such as GDPR for European customers or PCI-DSS for handling payments.
 
-#### **1.3 Technologies to Support Requirements**
+#### **Technologies to Support Requirements**
 
 - **Front-end**: 
 
