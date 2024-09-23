@@ -1,103 +1,93 @@
 ___
-### Step 1: Form the Agile Team
+#### Etapas para Implementar o Desenvolvimento Ágil Usando Scrum e Kanban:
 
-1. **Team Composition**: An agile team typically consists of 5 to 9 people with different roles. In the context of software development for the hotel reservation project, the team could include:
+1. **Entendimento dos Conceitos Ágeis**:
     
-    - **Product Owner (PO)**: Responsible for defining and prioritizing the features that need to be developed (owner of the backlog).
-    - **Scrum Master**: Helps the team follow agile principles and removes impediments that block progress.
-    - **Developers**: Front-end and back-end programmers to build the system's features.
-    - **Testers (QA)**: Ensure the product's quality by creating and running tests.
-    - **UX/UI Designers**: Work to improve the user experience and graphical interface.
-    - **DevOps**: Integrate development and operations, ensuring continuous integration and delivery of code.
+    - **Scrum**: Uma metodologia ágil que organiza o trabalho em ciclos curtos, chamados de _sprints_ (geralmente 2 a 4 semanas). Scrum define papéis, cerimônias, artefatos e eventos para entregar incrementos de software.
     
-2. **Define Roles and Responsibilities**: Each team member should know their responsibilities, but there should also be flexibility for collaboration across roles. In an agile environment, everyone should be ready to help in different areas.
-
-### Step 2: Manage the Backlog
-
-1. **Create the Product Backlog**: The **Product Owner** (PO) should define the **backlog** with all the desired features. In the case of the hotel reservation platform, the backlog might include:
+    - **Kanban**: Um método visual de gerenciamento de tarefas que usa um quadro (físico ou digital) para visualizar o fluxo de trabalho e melhorar a eficiência.
     
-    - Search available rooms page.
-    - User authentication system.
-    - Online payment module.
-    - Reservation confirmation system.
-    - Integration with customer and booking database.
-
-2. **Backlog Refinement**: The backlog should be refined regularly. This includes breaking down large tasks into smaller, more manageable ones. Each item in the backlog should follow the **INVEST** criteria (Independent, Negotiable, Valuable, Estimable, Small, Testable).
-
-3. **Prioritization**: The PO should prioritize user stories based on the value they deliver to the business. Essential features, such as the booking system, might be prioritized before integrations or optimizations.
-
-### Step 3: Create User Stories
-
-1. **User Stories**: Each feature should be described as a **user story**. A user story describes a feature from the end user's perspective. A good structure for a user story is:
+2. **Formação do Time Ágil**:
     
-    `As a [user type],` 
-    `I want [desired feature],` 
-    `So that [benefit].`
+    - **Scrum Master**: Facilita o processo e remove impedimentos.
     
-    Examples for the hotel reservation system:
+    - **Product Owner**: Define as prioridades e requisitos.
     
-    - "As a customer, I want to search for available rooms so I can choose a room based on my preferences."
-    - "As a customer, I want to make a reservation to ensure the room is available on my desired date."
-    - "As an admin, I want to view all bookings so I can manage room availability."
-
-2. **Acceptance Criteria**: Each user story should have clear acceptance criteria, so the development team and QA know when the story has been successfully completed. Example of acceptance criteria:
+    - **Time de Desenvolvimento**: Responsável por entregar o incremento de produto dentro de cada sprint.
     
-    - The page should display all available rooms based on the entered date.
-    - The system should confirm the reservation after successful payment.
-
-### Step 4: Sprint Planning
-
-1. **Set the Sprint Duration**: A sprint typically lasts 1 to 4 weeks. At the beginning of the project, it might be helpful to try 2-week sprints to deliver features quickly and adjust the process as needed.
-
-2. **Sprint Planning**: At the start of each sprint, the team should hold a **sprint planning meeting**. In this meeting, the PO presents the prioritized user stories, and the team selects which ones will be delivered in the sprint.
+    - **Stakeholders**: Interessados no resultado do projeto, fornecendo feedback contínuo.
     
-3. **Estimate User Stories**: During sprint planning, the team estimates the user stories, usually using methods like **Planning Poker** or **story points**. This helps predict the amount of work that can be completed within the sprint.
-
-### Step 5: Sprint Execution and Review
-
-1. **Daily Stand-up**: Hold quick daily meetings (usually 15 minutes) where each team member shares:
+3. **Definição do Product Backlog**:
     
-    - What they did the previous day.
-    - What they will do today.
-    - If they have any impediments.
+    - **Product Backlog**: Uma lista priorizada de funcionalidades, histórias de usuário e melhorias que devem ser desenvolvidas.
+    
+    - A definição clara das histórias de usuário, que incluem os requisitos do sistema do ponto de vista do usuário final, deve ser uma prioridade.
+    
+4. **Planejamento do Sprint**:
+    
+    - No início de cada sprint, o time de desenvolvimento, junto com o Product Owner, define quais itens do backlog serão trabalhados.
+    
+    - Estabelecer um objetivo para o sprint e definir as histórias de usuário que poderão ser concluídas dentro do período.
+    
+5. **Criação do Quadro Kanban**:
+    
+    - O **Quadro Kanban** será utilizado para gerenciar as tarefas do sprint. Ele deve ter colunas como: **Backlog**, **Em Andamento**, **Revisão** e **Concluído**.
+    
+    - Cada história de usuário ou tarefa do backlog é representada por um cartão no quadro Kanban.
+    
+6. **Daily Stand-ups (Reuniões Diárias)**:
+    
+    - Curta reunião (15 minutos) para sincronizar o time, revisar o progresso e identificar impedimentos. Cada membro responde às perguntas: "O que fiz ontem?", "O que farei hoje?" e "Há algo que me bloqueia?"
+    
+7. **Revisão do Sprint**:
+    
+    - Ao final do sprint, o time faz uma reunião de revisão onde demonstra o trabalho completado para os stakeholders e coleta feedback.
+    
+8. **Retrospectiva do Sprint**:
+    
+    - Após a revisão do sprint, o time realiza uma **retrospectiva** para identificar o que funcionou bem e o que pode ser melhorado no próximo ciclo.
 
-2. **Task Board Management**: Use tools like **Trello**, **Jira**, or **Azure DevOps** to manage tasks. The board typically has columns like **To Do**, **In Progress**, **Code Review**, **Done**. As development progresses, tasks move across the columns.
+### Passo a Passo da Implementação Prática:
 
-3. **Sprint Review**: At the end of each sprint, the team holds a **Sprint Review**, where they present what was delivered to the PO and stakeholders. The feedback received is crucial for the next sprint.
+1. **Treinamento Inicial**:
+    
+    - Realize treinamentos com o time para que todos compreendam os princípios do Agile, Scrum e Kanban. É importante que todos saibam seus papéis e responsabilidades.
+    
+2. **Configuração do Quadro Kanban**:
+    
+    - Escolha uma ferramenta digital (Trello, Jira, Asana, etc.) ou um quadro físico para visualização do fluxo de trabalho. Configure as colunas como:
+        - **Backlog** (tarefas a serem feitas),
+        - **To Do** (tarefas a iniciar no sprint),
+        - **Doing** (tarefas em progresso),
+        - **Review** (tarefas aguardando revisão),
+        - **Done** (tarefas concluídas).
+        
+3. **Criação do Product Backlog**:
+    
+    - O Product Owner cria e prioriza o backlog inicial, com base nos requisitos do produto. As histórias de usuário devem ser detalhadas, e as estimativas podem ser feitas usando técnicas como _Planning Poker_.
+    
+4. **Planejamento do Primeiro Sprint**:
+    
+    - O time escolhe as histórias de usuário mais prioritárias que possam ser concluídas no sprint (com base na velocidade do time). A meta do sprint deve ser clara e viável.
+    
+5. **Desenvolvimento com Scrum e Kanban**:
+    
+    - O time começa a trabalhar nas tarefas movendo-as do backlog para "To Do" no quadro Kanban. O progresso é visualizado e monitorado diariamente.
+    
+    - Reuniões diárias são realizadas para garantir que todos estão alinhados com o progresso.
+    
+6. **Revisão e Retrospectiva**:
+    
+    - No final do sprint, o time realiza a **revisão do sprint** com o Product Owner e stakeholders.
+    
+    - O time realiza a **retrospectiva**, identificando melhorias para o próximo sprint.
+    
+7. **Ajustes Contínuos**:
+    
+    - Ajuste o processo conforme o feedback das retrospectivas. A melhoria contínua é fundamental no Agile.
 
-### Step 6: Retrospective and Continuous Improvement
+### Ferramentas Recomendadas:
 
-1. **Sprint Retrospective**: After the sprint review, the team holds a **retrospective** to discuss what went well, what didn’t, and what can be improved. The Scrum Master ensures that improvement actions are implemented in the next sprint.
-
-2. **Continuous Improvement**: Agile focuses on continuous improvement. Based on lessons learned, the team should adjust processes, improve communication, and optimize the workflow.
-
-### Step 7: Project Monitoring
-
-1. **Burndown Chart**: A burndown chart is a visual tool that shows sprint progress. It helps the team see if they are on track to complete all committed stories.
-
-2. **Backlog Monitoring**: The PO should keep the backlog updated and organized. As the product evolves, new features or improvements may be added, and others can be re-prioritized or removed.
-
-### Step 8: Continuous Delivery and Integration (CI/CD)
-
-1. **Continuous Integration (CI)**: Every time a developer commits code, it should be integrated into the main repository and automatically tested. Tools like **Jenkins**, **CircleCI**, or **GitHub Actions** can be used for automation.
-
-2. **Continuous Delivery (CD)**: The code should always be ready to be delivered to production. A CD pipeline ensures that new features are quickly tested and deployed.
-
-3. **Automated Testing**: Build an automated test suite (unit tests, integration tests, e2e tests) to ensure the system is functioning correctly after each change.
-
-### Step 9: Release and Feedback
-
-1. **Frequent Releases**: With agile delivery, the product is released in small iterations. Each release should be tested, validated, and delivered to the end-user. Frequent releases allow adjustments based on user feedback.
-
-2. **User Feedback**: Collecting user feedback is essential. Analytics tools (like **Google Analytics**) and satisfaction surveys help understand what users think of the system and what can be improved.
-
-
-#### **Support material**
-
-= 008 - Agilidade e DevOps um dia no desenvolvimento de software (Alura)
-
-= 009 - Agilidade e TDD um dia no desenvolvimento de software (Alura )
-
-==The content of the above courses is available for free on Telegran. Just click the link below.==
-
-https://t.me/+cbWUWdqmERVhOWI1
+- **Jira** ou **Trello** para Kanban.
+- **Slack** ou **MS Teams** para comunicação.
+- **Confluence** ou **Google Docs** para documentação colaborativa.

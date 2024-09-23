@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "4f4d4b83fc7489cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "357b71cc1d72d86a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3733fee271b4c67b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Patterns/Git/1 - Commit message patterns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43da2e98fd327ed4",
+    "type": "split",
+    "children": [
+      {
+        "id": "575a83eebcdcca72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f1abd1e72071847",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "525c2ad5442a3021",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f9445b04887ee14a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c8e1ae7cd73c7a20",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c41b4d60286964a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bb7a18a82dff56b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Patterns/Git/1 - Commit message patterns.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "01cd08b527a125da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Patterns/Git/1 - Commit message patterns.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "632bea41e137a2d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f434a54325c8534f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Patterns/Git/1 - Commit message patterns.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3733fee271b4c67b",
+  "lastOpenFiles": [
+    "SDLC - Software development life cycle/2 - Agile methodology (Detailed).md"
+  ]
+}
