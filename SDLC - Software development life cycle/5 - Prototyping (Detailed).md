@@ -9,44 +9,6 @@ ___
 
 #### **Prototyping Process**
 
-##### **Wireframes**
-
-**Wireframes** are basic, low-fidelity representations of the interface, focusing primarily on structure and layout. They help define the layout and core components of the application before considering visual design.
-
-**Recommended Tools for Wireframes**:
-
-- **Balsamiq**: A simple and intuitive wireframing tool.
-
-- **Figma**: Can be used to create wireframes, mockups, and interactive prototypes.
-
-- **Sketch**: A design tool focused on creating wireframes and layouts.
-
-**Steps to create wireframes**:
-
-1. **Define the structure of each page**:
-    
-    - **Home page**: Should include a search bar, hotel filters, and a list of hotels with images, descriptions, and action buttons ("Book" and "View details").
-
-    - **Hotel details page**: Displays detailed information about the hotel (description, photos, available rooms, prices) and a "Book" button.
-
-    - **Booking page**: Includes forms for entering personal information, check-in and check-out dates, and a booking summary.
-
-    - **Login page**: For user authentication, with fields for email/password and social login options.
-
-2. **Map out navigation flows**:
-    
-    - **Unauthenticated user**: Can access the homepage, search hotels, view details, and make a booking, being redirected to the login page if necessary.
-
-    - **Authenticated user**: Can complete the booking more quickly with prefilled profile information.
-
-**Wireframe example for the homepage**:
-
-- Navigation bar at the top with login/register options.
-
-- Hotel search bar (destination, check-in/out date, number of guests).
-
-- List of hotels displayed in cards (with images, name, location, and details button).
-
 ##### **Mockups**
 
 **Mockups** are more detailed versions of wireframes, incorporating colors, typography, icons, and other visual design elements. They help visualize how the application will look to the end user.
@@ -109,7 +71,9 @@ Once the prototype is created, it's essential to conduct **usability tests**. Fe
 1. **Testing with real users**:
     
     - Invite people from your target audience (potential customers) to use the prototype.
+
     - Observe how they navigate through the application, noting any points of confusion or frustration.
+
     - Record the time it takes to complete tasks, such as booking a room or finding a specific hotel.
 
 2. **Iterating based on feedback**:
@@ -118,12 +82,11 @@ Once the prototype is created, it's essential to conduct **usability tests**. Fe
 
 #### **Examples of Tools and Templates**
 
-Here are some tools and templates that can help create wireframes, mockups, and interactive prototypes:
+Here are some tools and templates that can help mockups, and interactive prototypes:
 
-- **Figma** (for wireframes and prototypes): [Figma](https://www.figma.com/)
+- **Figma** (for prototypes): [Figma](https://www.figma.com/)
 
 - **Adobe XD** (for mockups and prototypes): [Adobe XD](https://www.adobe.com/products/xd.html)
 
 - **InVision** (for interactive prototypes): [InVision](https://www.invisionapp.com/)
 
-- **Balsamiq** (for wireframes): [Balsamiq](https://balsamiq.com/)
