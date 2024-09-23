@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDLC - Software development life cycle/5 - Prototyping (Detailed).md",
+                "file": "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/1 - Requirements Gathering (Detailed).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDLC - Software development life cycle/5 - Prototyping (Detailed).md",
+                "file": "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/1 - Requirements Gathering (Detailed).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDLC - Software development life cycle/5 - Prototyping (Detailed).md",
+                "file": "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/1 - Requirements Gathering (Detailed).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDLC - Software development life cycle/5 - Prototyping (Detailed).md"
+                "file": "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/1 - Requirements Gathering (Detailed).md"
               }
             }
           }
@@ -148,11 +148,16 @@
   },
   "active": "3733fee271b4c67b",
   "lastOpenFiles": [
-    "SDLC - Software development life cycle/4 - Architecture Design (Detailed).md",
-    "SDLC - Software development life cycle/2 - Agile methodology (Detailed).md",
-    "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed).md",
-    "SDLC - Software development life cycle/5 - Prototyping (Detailed).md",
-    "SDLC - Software development life cycle/0 - Overview.md",
+    "SDLC - Software development life cycle/5 - Prototyping (Detailed)/5 - Prototyping (Detailed).md",
+    "SDLC - Software development life cycle/5 - Prototyping (Detailed)",
+    "SDLC - Software development life cycle/4 - Architecture Design (Detailed)/4 - Architecture Design (Detailed).md",
+    "SDLC - Software development life cycle/4 - Architecture Design (Detailed)",
+    "SDLC - Software development life cycle/2 - Agile methodology (Detailed)/2 - Agile methodology (Detailed).md",
+    "SDLC - Software development life cycle/2 - Agile methodology (Detailed)",
+    "SDLC - Software development life cycle/0 - Overview/0 - Overview.md",
+    "SDLC - Software development life cycle/0 - Overview",
+    "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/1 - Requirements Gathering (Detailed).md",
+    "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)",
     "Patterns/Git/1 - Commit message patterns.md"
   ]
 }
