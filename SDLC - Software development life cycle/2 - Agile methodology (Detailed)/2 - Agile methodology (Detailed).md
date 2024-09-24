@@ -91,3 +91,21 @@ ___
 - **Jira** ou **Trello** para Kanban.
 - **Slack** ou **MS Teams** para comunicação.
 - **Confluence** ou **Google Docs** para documentação colaborativa.
+
+#### **Support material**
+
+= 008 - Agilidade e DevOps um dia no desenvolvimento de software (Alura)
+
+= 009 - Agilidade e TDD um dia no desenvolvimento de software (Alura )
+
+==The content of the above courses is available for free on Telegran. Just click the link below.==
+
+[https://t.me/+cbWUWdqmERVhOWI1](https://t.me/+cbWUWdqmERVhOWI1)
+
+###### **Tutorials and classes on YouTube**
+
+https://www.youtube.com/watch?v=oh3PGXUiMFs&t=2114s
+
+https://www.youtube.com/watch?v=vpKlvPGaReI&t=1312s
+
+https://www.youtube.com/watch?v=LssjtjW3njM

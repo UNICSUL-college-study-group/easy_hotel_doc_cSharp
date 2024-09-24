@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/User stories_Tasks/1 - User Registration and Authentication 1/1.1. As a User, I want to create an account to access the platform.md",
+                "file": "SDLC - Software development life cycle/2 - Agile methodology (Detailed)/2 - Agile methodology (Detailed).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/User stories_Tasks/1 - User Registration and Authentication 1/1.1. As a User, I want to create an account to access the platform.md",
+                "file": "SDLC - Software development life cycle/2 - Agile methodology (Detailed)/2 - Agile methodology (Detailed).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/User stories_Tasks/1 - User Registration and Authentication 1/1.1. As a User, I want to create an account to access the platform.md",
+                "file": "SDLC - Software development life cycle/2 - Agile methodology (Detailed)/2 - Agile methodology (Detailed).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/User stories_Tasks/1 - User Registration and Authentication 1/1.1. As a User, I want to create an account to access the platform.md"
+                "file": "SDLC - Software development life cycle/2 - Agile methodology (Detailed)/2 - Agile methodology (Detailed).md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "3733fee271b4c67b",
   "lastOpenFiles": [
-    "Screenshot_20240918_212726_Brave.jpg",
     "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/User stories_Tasks/1 - User Registration and Authentication 1/1.1. As a User, I want to create an account to access the platform.md",
+    "Screenshot_20240918_212726_Brave.jpg",
     "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/1 - Requirements Gathering (Detailed).md",
     "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/User stories_Tasks/1 - User Registration and Authentication 1/1.5. As an Admin, I want to manage user accounts.md",
     "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/User stories_Tasks/1 - User Registration and Authentication 1/1.4. As a User, I want to edit my account information.md",
