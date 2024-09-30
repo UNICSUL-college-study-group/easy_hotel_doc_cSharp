@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "4f4d4b83fc7489cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "357b71cc1d72d86a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3733fee271b4c67b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SDLC - Software development life cycle/2 - Agile methodology (Detailed)/2 - Agile methodology (Detailed).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43da2e98fd327ed4",
+    "type": "split",
+    "children": [
+      {
+        "id": "575a83eebcdcca72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f1abd1e72071847",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "525c2ad5442a3021",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f9445b04887ee14a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c8e1ae7cd73c7a20",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c41b4d60286964a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bb7a18a82dff56b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SDLC - Software development life cycle/2 - Agile methodology (Detailed)/2 - Agile methodology (Detailed).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "01cd08b527a125da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SDLC - Software development life cycle/2 - Agile methodology (Detailed)/2 - Agile methodology (Detailed).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "632bea41e137a2d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f434a54325c8534f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SDLC - Software development life cycle/2 - Agile methodology (Detailed)/2 - Agile methodology (Detailed).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3733fee271b4c67b",
+  "lastOpenFiles": [
+    "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/User stories_Tasks/1 - User Registration and Authentication 1/1.1. As a User, I want to create an account to access the platform.md",
+    "Screenshot_20240918_212726_Brave.jpg",
+    "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/1 - Requirements Gathering (Detailed).md",
+    "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/User stories_Tasks/1 - User Registration and Authentication 1/1.5. As an Admin, I want to manage user accounts.md",
+    "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/User stories_Tasks/1 - User Registration and Authentication 1/1.4. As a User, I want to edit my account information.md",
+    "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/User stories_Tasks/1 - User Registration and Authentication 1/1.3. As a User, I want to reset my password if I have forgotten it.md",
+    "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/User stories_Tasks/1 - User Registration and Authentication 1/1.2. As a User, I want to log in to access my account.md",
+    "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/User stories_Tasks/1 - User Registration and Authentication 1",
+    "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/User stories_Tasks/1 - User Registration and Authentication",
+    "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/User stories_Tasks",
+    "SDLC - Software development life cycle/5 - Prototyping (Detailed)/5 - Prototyping (Detailed).md",
+    "SDLC - Software development life cycle/5 - Prototyping (Detailed)",
+    "SDLC - Software development life cycle/4 - Architecture Design (Detailed)/4 - Architecture Design (Detailed).md",
+    "SDLC - Software development life cycle/4 - Architecture Design (Detailed)",
+    "SDLC - Software development life cycle/2 - Agile methodology (Detailed)/2 - Agile methodology (Detailed).md",
+    "SDLC - Software development life cycle/2 - Agile methodology (Detailed)",
+    "SDLC - Software development life cycle/0 - Overview/0 - Overview.md",
+    "SDLC - Software development life cycle/0 - Overview",
+    "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)",
+    "Patterns/Git/1 - Commit message patterns.md"
+  ]
+}
