@@ -24,9 +24,30 @@ Here is an overview of the entire software development lifecycle for a hotel boo
     - Back-end: C# (.NET Core).
     - Database: SQL Server or another relational database.
     - Hosting: Azure or AWS.
+
 ### 2 - **Agile methodology**
 
-- Scrum, Kanban, etc.
+1. **Understand the Concepts**:
+    - **Scrum**: Agile methodology based on sprints (short cycles).
+    - **Kanban**: Visual method for task management with columns like _Backlog_, _Doing_, and _Done_.
+2. **Form the Agile Team**:
+    - Roles: **Scrum Master**, **Product Owner**, and **Development Team**.
+3. **Define the Product Backlog**:
+    - Create a prioritized list of user stories and tasks.
+4. **Plan the Sprint**:
+    - Select tasks for the sprint and define a clear goal.
+5. **Set Up the Kanban Board**:
+    - Use tools like Trello or Jira to visualize progress.
+6. **Conduct Daily Meetings**:
+    - Synchronize the team with short stand-ups.
+7. **Review and Retrospective**:
+    - Review completed work and identify improvements at the end of each sprint.
+8. **Continuous Improvement**:
+    - Adjust the process based on retrospective feedback.
+9. **Recommended Tools**
+	- **Trello/Jira**: Kanban Board.
+	- **Slack/MS Teams**: Communication.
+	- **Google Docs/Confluence**: Documentation.
 
 ### 3 - **Timeline**
 
