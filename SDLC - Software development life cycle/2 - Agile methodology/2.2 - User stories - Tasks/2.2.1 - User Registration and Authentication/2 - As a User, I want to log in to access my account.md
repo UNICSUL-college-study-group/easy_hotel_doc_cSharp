@@ -1,4 +1,4 @@
-
+ 
 - **Description**: The user wants to log into the platform using their credentials (email and password).
 - **Acceptance Criteria**:
     1. The system should display a login form with fields for email and password.
