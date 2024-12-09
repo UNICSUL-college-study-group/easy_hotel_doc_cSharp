@@ -1,9 +1,0 @@
- 
-- **Description**: The user wants to log into the platform using their credentials (email and password).
-- **Acceptance Criteria**:
-    1. The system should display a login form with fields for email and password.
-    2. The system should validate the credentials and, if correct, allow access to the user's account.
-    3. If the credentials are incorrect, the system should display an error message indicating that the email or password is invalid.
-    4. After logging in, the system should redirect the user to the home page of their profile, where they can manage their reservations.
-
----
