@@ -35,12 +35,14 @@
             "id": "6bb77a2f240d2fa2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Screenshot_20240918_233229_Termux.jpg"
+                "file": "SDLC - Software development life cycle/4 - Architecture Design/4.1 - Pages.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Screenshot_20240918_233229_Termux"
+              "icon": "lucide-file",
+              "title": "4.1 - Pages"
             }
           }
         ],
@@ -187,12 +189,13 @@
   },
   "active": "6bb77a2f240d2fa2",
   "lastOpenFiles": [
+    "SDLC - Software development life cycle/5 - Prototyping/5.2 - Figma Design.md",
+    "SDLC - Software development life cycle/5 - Prototyping/5.1 - Pages (User).md",
+    "SDLC - Software development life cycle/5 - Prototyping/5.3 - Prototyping (Overview).md",
+    "Screenshot_20240918_233229_Termux.jpg",
     "Screenshot_20240918_212726_Brave.jpg",
     "Screenshot_20240918_212137_Termux.jpg",
     "README.md",
-    "SDLC - Software development life cycle/5 - Prototyping/5.3 - Prototyping (Detailed).md",
-    "SDLC - Software development life cycle/5 - Prototyping/5.2 - Figma Design.md",
-    "SDLC - Software development life cycle/5 - Prototyping/5.1 - Pages (User registration and authentication).md",
     "SDLC - Software development life cycle/4 - Architecture Design/4.2 - Architecture Design (Detailed).md",
     "SDLC - Software development life cycle/4 - Architecture Design/4.1 - Pages.md",
     "SDLC - Software development life cycle/2 - Agile methodology/2.2 - Agile methodology (Detailed).md",
