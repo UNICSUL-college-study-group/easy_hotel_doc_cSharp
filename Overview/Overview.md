@@ -133,6 +133,3 @@ https://www.youtube.com/watch?v=vicXmQ5hUyY
 
 How SCRUM works:
 https://www.youtube.com/watch?v=eNdqssYSpZk
-
-#### Reference:
-https://openai.com/chatgpt/
