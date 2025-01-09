@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDLC - Software development life cycle/5 - Prototyping/5.2 - Figma Design.md",
+                "file": "SDLC - Software development life cycle/2 - Agile methodology/2.1 - User stories - Tasks/2.1.1 - User/1 - User Registration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.2 - Figma Design"
+              "title": "1 - User Registration"
             }
           }
         ],
@@ -189,27 +189,27 @@
   },
   "active": "6bb77a2f240d2fa2",
   "lastOpenFiles": [
-    "SDLC - Software development life cycle/5 - Prototyping/5.1 - Pages (User).md",
-    "SDLC - Software development life cycle/5 - Prototyping/5.3 - Prototyping (Overview).md",
     "SDLC - Software development life cycle/5 - Prototyping/5.2 - Figma Design.md",
-    "README.md",
+    "SDLC - Software development life cycle/5 - Prototyping/5.1 - Pages (User).md",
+    "SDLC - Software development life cycle/4 - Architecture Design/4.2 - Architecture Design (Detailed).md",
     "SDLC - Software development life cycle/4 - Architecture Design/4.1 - Pages.md",
+    "SDLC - Software development life cycle/2 - Agile methodology/2.1 - User stories - Tasks/2.1.1 - User/5 - Update Profile Information.md",
+    "SDLC - Software development life cycle/2 - Agile methodology/2.1 - User stories - Tasks/2.1.1 - User/4 - Password Recovery.md",
+    "SDLC - Software development life cycle/2 - Agile methodology/2.1 - User stories - Tasks/2.1.1 - User/3 - Login with Third-Party Providers.md",
+    "SDLC - Software development life cycle/2 - Agile methodology/2.1 - User stories - Tasks/2.1.1 - User/2 - Login with Credentials.md",
+    "SDLC - Software development life cycle/2 - Agile methodology/2.1 - User stories - Tasks/2.1.1 - User/1 - User Registration.md",
+    "SDLC - Software development life cycle/5 - Prototyping/5.3 - Prototyping (Overview).md",
+    "README.md",
     "Screenshot_20240918_233229_Termux.jpg",
     "Screenshot_20240918_212726_Brave.jpg",
     "Screenshot_20240918_212137_Termux.jpg",
-    "SDLC - Software development life cycle/4 - Architecture Design/4.2 - Architecture Design (Detailed).md",
     "SDLC - Software development life cycle/2 - Agile methodology/2.2 - Agile methodology (Detailed).md",
-    "SDLC - Software development life cycle/2 - Agile methodology/2.1 - User stories - Tasks/2.1.1 - User Registration and Authentication/5 - Update Profile Information.md",
-    "SDLC - Software development life cycle/2 - Agile methodology/2.1 - User stories - Tasks/2.1.1 - User Registration and Authentication/4 - Password Recovery.md",
-    "SDLC - Software development life cycle/2 - Agile methodology/2.1 - User stories - Tasks/2.1.1 - User Registration and Authentication/3 - Login with Third-Party Providers.md",
-    "SDLC - Software development life cycle/2 - Agile methodology/2.1 - User stories - Tasks/2.1.1 - User Registration and Authentication/2 - Login with Credentials.md",
-    "SDLC - Software development life cycle/2 - Agile methodology/2.1 - User stories - Tasks/2.1.1 - User Registration and Authentication/1 - User Registration.md",
     "SDLC - Software development life cycle/1 - Requirements Gathering/1.1 - Requirements Gathering (Detailed).md",
     "Patterns/Git/1 - Commit message patterns.md",
     "Overview/Overview.md",
     "Untitled.canvas",
     "SDLC - Software development life cycle/2024-09-30.md",
-    "SDLC - Software development life cycle/2 - Agile methodology/2.1 - User stories - Tasks/2.1.1 - User Registration and Authentication",
+    "SDLC - Software development life cycle/2 - Agile methodology/2.1 - User stories - Tasks/2.1.1 - User",
     "SDLC - Software development life cycle/2 - Agile methodology/2.1 - User stories - Tasks",
     "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/User stories_Tasks/1 - User Registration and Authentication 1/1.3. As a User, I want to reset my password if I have forgotten it.md",
     "SDLC - Software development life cycle/1 - Requirements Gathering (Detailed)/User stories_Tasks/1 - User Registration and Authentication 1/1.1. As a User, I want to create an account to access the platform.md",
