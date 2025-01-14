@@ -17,12 +17,7 @@
 1. **Create the Registration Form Component**
     
     - Design and develop a React component for the registration form.
-    - Include input fields for:
-        - Name
-        - Email
-        - Password
-        - Phone number
-    - Add a "Register" button for form submission.
+    - The fields, texts and buttons will be in accordance with the Back-end.
 2. **Implement Client-Side Validation**
     
     - Validate email format using regular expressions.
@@ -44,7 +39,7 @@
 1. **Create Registration API Endpoint**
     
     - Develop a C# endpoint (e.g., `/api/register`) in ASP.NET Core to handle user registration.
-    - Accept name, email, password, and phone number as input.
+    - The inputs will be inserted according to the design in Figma.
 2. **Validate Input on the Server-Side**
     
     - Check for missing or invalid fields in the request.
@@ -63,7 +58,8 @@
         - `PasswordHash`
         - `PhoneNumber`
         - `CreatedAt` (Timestamp)
-5. **Send a Confirmation Email (Optional)**
+        - `CreatedBy`
+1. **Send a Confirmation Email (Optional)**
     
     - Generate a unique confirmation token.
     - Send an email with a confirmation link to verify the user's account.
